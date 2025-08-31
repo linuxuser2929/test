@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo  "That server v2 is running"
+echo  "That server v3 is running"
 echo "new line add"
