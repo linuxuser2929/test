@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo  "This is from script under ggg"s
+echo  "That server isew"
+echo "new line add"
